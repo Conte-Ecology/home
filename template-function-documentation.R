@@ -8,6 +8,8 @@
 #' @return Returns a dataframe of the best stuff
 #' @details
 #' blah, blah, something, something
+#' @references
+#' Hadley Wickham, Peter Danenberg and Manuel Eugster (2014). roxygen2: In-source documentation for R. R package version 4.0.1. http://CRAN.R-project.org/package=roxygen2
 #' @examples
 #' 
 #' \dontrun{
