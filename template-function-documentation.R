@@ -15,6 +15,7 @@
 #' \dontrun{
 #' foo <- functionName(x, y)
 #' }
+#' @export
 functionName <- function(x, y) {
   bar <- x + y$count
   return(as.data.frame(bar))
